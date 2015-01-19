@@ -1,0 +1,42 @@
+F:\Computer Science\SimFarm\SimFarm\obj\Release\ResolveAssemblyReference.cache
+F:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.Properties.Resources.resources
+F:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.csproj.GenerateResource.Cache
+F:\Computer Science\SimFarm\SimFarm\bin\Release\SimFarm.exe
+F:\Computer Science\SimFarm\SimFarm\bin\Release\SimFarm.pdb
+F:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.exe
+F:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.pdb
+F:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.Form1.resources
+E:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.exe
+E:\Computer Science\SimFarm\SimFarm\obj\Release\ResolveAssemblyReference.cache
+E:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.Form1.resources
+E:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.Properties.Resources.resources
+E:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.csproj.GenerateResource.Cache
+E:\Computer Science\SimFarm\SimFarm\bin\Release\SimFarm.exe
+E:\Computer Science\SimFarm\SimFarm\bin\Release\SimFarm.pdb
+E:\Computer Science\SimFarm\SimFarm\obj\Release\SimFarm.pdb
+G:\Computer Science\Copy of SimFarm\SimFarm\bin\Release\SimFarm.exe
+G:\Computer Science\Copy of SimFarm\SimFarm\bin\Release\SimFarm.pdb
+G:\Computer Science\Copy of SimFarm\SimFarm\obj\Release\ResolveAssemblyReference.cache
+G:\Computer Science\Copy of SimFarm\SimFarm\obj\Release\SimFarm.AngelaForm.resources
+G:\Computer Science\Copy of SimFarm\SimFarm\obj\Release\SimFarm.Properties.Resources.resources
+G:\Computer Science\Copy of SimFarm\SimFarm\obj\Release\SimFarm.csproj.GenerateResource.Cache
+G:\Computer Science\Copy of SimFarm\SimFarm\obj\Release\SimFarm.exe
+G:\Computer Science\Copy of SimFarm\SimFarm\obj\Release\SimFarm.pdb
+C:\Users\Fengfu\Desktop\Copy of SimFarm\SimFarm\obj\Release\SimFarm.exe
+C:\Users\Fengfu\Desktop\Copy of SimFarm\SimFarm\obj\Release\SimFarm.pdb
+G:\SimFarm\SimFarm\bin\Release\SimFarm.exe
+G:\SimFarm\SimFarm\bin\Release\SimFarm.pdb
+G:\SimFarm\SimFarm\obj\Release\ResolveAssemblyReference.cache
+G:\SimFarm\SimFarm\obj\Release\SimFarm.AngelaForm.resources
+G:\SimFarm\SimFarm\obj\Release\SimFarm.Properties.Resources.resources
+G:\SimFarm\SimFarm\obj\Release\SimFarm.csproj.GenerateResource.Cache
+G:\SimFarm\SimFarm\obj\Release\SimFarm.exe
+G:\SimFarm\SimFarm\obj\Release\SimFarm.pdb
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\obj\Release\SimFarm.exe
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\obj\Release\SimFarm.pdb
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\bin\Release\SimFarm.exe
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\bin\Release\SimFarm.pdb
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\obj\Release\SimFarm.AngelaForm.resources
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\obj\Release\SimFarm.Properties.Resources.resources
+C:\Users\Fengfu\Desktop\SimFarm\SimFarm\obj\Release\SimFarm.csproj.GenerateResource.Cache
